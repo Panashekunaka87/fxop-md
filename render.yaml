@@ -6,10 +6,10 @@ services:
    dockerfilePath: ./Dockerfile
    envVars:
     - key: SESSION_ID
-      value: Session~
+      value: Session~uqHRw9Nz
     - key: BOT_INFO
       value: ᴀsᴛʀᴏ;ғxᴏᴘ-ᴍᴅ
     - key: SUDO
-      value: 2348039607375
+      value: 263781941769
     - key: ANTILINK
       value: "true"
